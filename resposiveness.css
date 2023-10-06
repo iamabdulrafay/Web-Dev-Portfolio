@@ -1,0 +1,7 @@
+
+/* :required(".") */
+@media (max-width: 600px) {
+  .nav-top h3 {
+    font-size: 2vw;
+  }
+}
